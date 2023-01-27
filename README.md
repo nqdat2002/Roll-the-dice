@@ -1,2 +1,2 @@
 # Roll-the-dice
-Rolling three dice
+Rolling three dices
